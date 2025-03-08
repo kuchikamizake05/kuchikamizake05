@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05" /> </p>
 
 ## 💫 About Me:
 💻 Interested in Web Development & Data Science – I love building and analyzing things with technology!<br>🎓 Undergraduate Student in Information Engineering – Studying at Gadjah Mada University.<br>📈 Passionate About Growth & Learning – Always eager to improve and explore new knowledge.
