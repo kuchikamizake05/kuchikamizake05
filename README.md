@@ -3,7 +3,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/></p>
 
-<h2 align="center">Hello, My name is Sako 👋</h2>
+<h2 align="center">Hello, my name is Sako 👋</h2>
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
 
 ##
