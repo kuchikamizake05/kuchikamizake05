@@ -17,4 +17,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31425t3vgnzk7tqwf6azbuza3bia)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31425t3vgnzk7tqwf6azbuza3bia&count={3})
