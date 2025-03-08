@@ -32,4 +32,4 @@
 <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false" height="170 px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170 px">
 
-
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31425t3vgnzk7tqwf6azbuza3bia&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
