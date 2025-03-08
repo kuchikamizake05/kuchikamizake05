@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+There!+Welcome+to+my+profile!" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+there!+Welcome+to+my+profile!" />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/></p>
 
