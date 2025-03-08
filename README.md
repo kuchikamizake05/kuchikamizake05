@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/></p>
 
 <h2 align="center">Hello 👋 My name is Sako</h2>
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
@@ -7,13 +7,10 @@
 💻 Interested in Web Development & Data Science – I love building and analyzing things with technology!<br>
 📈 Passionate About Growth & Learning – Always eager to improve and explore new knowledge.
 
-
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fsid.jp) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faaid-sakhaa) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faaidsakhaa@gmail.com) 
-
-
 
 ## 💻 Tech Stack :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -26,8 +23,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ## 📊 GitHub Stats :
-<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false"/>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false" height="200 px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200 px">
 
 
