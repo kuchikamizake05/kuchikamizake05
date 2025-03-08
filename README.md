@@ -7,8 +7,8 @@
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
 
 ##
-💻 Interested in Web Development & Data Science – I love building and analyzing things with technology!<br>
-📈 Passionate About Growth & Learning – Always eager to improve and explore new knowledge.
+- 💻 Interested in Web Development & Data Science – I love building and analyzing things with technology!<br>
+- 📈 Passionate About Growth & Learning – Always eager to improve and explore new knowledge.
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/faaid%20sakhaa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faaid-sakhaa) 
