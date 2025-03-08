@@ -1,9 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05" /> </p>
 
-<h1 align="center">Hello 👋, My name is Sako</h1>
+<h2 align="center">Hello 👋, My name is Sako</h1>
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
 
-## 💫 About Me :
+##
 💻 Interested in Web Development & Data Science – I love building and analyzing things with technology!<br>🎓 Undergraduate Student in Information Engineering – Studying at Gadjah Mada University.<br>📈 Passionate About Growth & Learning – Always eager to improve and explore new knowledge.
 
 
