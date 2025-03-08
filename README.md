@@ -23,7 +23,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ## 📊 GitHub Stats :
-<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false" height="160 px">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160 px">
+<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false" height="170 px">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170 px">
 
 
