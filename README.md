@@ -9,8 +9,8 @@
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/faaid%20sakhaa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faaid-sakhaa) 
-[![Instagram](https://img.shields.io/badge/fsid.jp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fsid.jp) 
-[![GitHUb](https://img.shields.io/badge/kuchikamizake05-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuchikamizake05)
+[![Instagram](https://img.shields.io/badge/fsid.jp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://spti.fy/suckho) 
+[![Spotify](https://img.shields.io/badge/suckho-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/kuchikamizake05)
 [![Discord](https://img.shields.io/badge/kuchikamizakee-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/489719895425155082)
 [![X](https://img.shields.io/badge/kuchizukeee-%2314171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/kuchizukeee)
 [![Email](https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:faaidsakhaa@gmail.com) 
