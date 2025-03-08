@@ -13,7 +13,7 @@
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/faaid%20sakhaa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faaid-sakhaa) 
 [![Instagram](https://img.shields.io/badge/fsid.jp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fsid.jp/) 
-[![Spotify](https://img.shields.io/badge/suckho-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31425t3vgnzk7tqwf6azbuza3bia?si=b9a37622dae840f8)
+[![Spotify](https://img.shields.io/badge/suckho-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31425t3vgnzk7tqwf6azbuza3bia?si=b9a37622dae840f8)
 [![Discord](https://img.shields.io/badge/kuchikamizakee-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/489719895425155082)
 [![X](https://img.shields.io/badge/kuchizukeee-%2314171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/kuchizukeee)
 [![Email](https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:faaidsakhaa@gmail.com) 
@@ -26,7 +26,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
 ## 📊 GitHub Stats :
 <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false" height="170 px">
