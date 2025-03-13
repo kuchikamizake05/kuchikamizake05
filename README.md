@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+there!+Welcome+to+my+profile!" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/></p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/></div>
 
 <h2 align="center">Hello, my name is Sako 👋</h2>
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
@@ -38,9 +38,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchikamizake05&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170 px">
 
 ##
-<p align="center">
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31425t3vgnzk7tqwf6azbuza3bia&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31425t3vgnzk7tqwf6azbuza3bia&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
-</p>
+</div>
 
