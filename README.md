@@ -17,12 +17,6 @@
 [![X](https://img.shields.io/badge/kuchizukeee-%2314171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/kuchizukeee)
 [![Spotify](https://img.shields.io/badge/suckho-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31425t3vgnzk7tqwf6azbuza3bia?si=b9a37622dae840f8)
 
-## 📬 Contact :
-[![Email](https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:faaidsakhaa@gmail.com) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628972100220/)
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/A0QtjUR2V_z)
-[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/489719895425155082)
-
 ## 💻 Tech Stack :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,6 +26,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+
+## 📬 Contact :
+[![Email](https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:faaidsakhaa@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628972100220/)
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/A0QtjUR2V_z)
+[![Discord](https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/489719895425155082)
 
 ## 📊 GitHub Stats :
 <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=kuchikamizake05&theme=radical&hide_border=false" height="170 px">
