@@ -9,7 +9,7 @@
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
 
 ##
-<p align="center">💻 Interested in <b>Web Development</b> & <b>Data Science</b> – I rreally like building and analyzing things with technology!</p>
+<p align="center">💻 Interested in <b>Web Development</b> & <b>Data Science</b> – I really like building and analyzing things with technology!</p>
 
 ## 🌐 Socials :
 <div align="center">
