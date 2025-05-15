@@ -9,19 +9,19 @@
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
 
 ##
-<p align="center">- 💻 Interested in <b>Web Development</b> & <b>Data Science</b> – I rreally like building and analyzing things with technology!</p>
+<p align="center">💻 Interested in <b>Web Development</b> & <b>Data Science</b> – I rreally like building and analyzing things with technology!</p>
 
 ## 🌐 Socials :
-<p align="center">
+<div align="center">
      <a href="https://linkedin.com/in/faaid-sakhaa"><img src="https://img.shields.io/badge/faaid%20sakhaa-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://instagram.com/fsid.jp/"><img src="https://img.shields.io/badge/fsid.jp-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/kuchikamizakee/"><img src="https://img.shields.io/badge/faaid%20sakhaa-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://x.com/kuchizukeee"><img src="https://img.shields.io/badge/kuchizukeee-%2314171A.svg?&style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://open.spotify.com/user/31425t3vgnzk7tqwf6azbuza3bia?si=b9a37622dae840f8"><img src="https://img.shields.io/badge/suckho-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-</p>
+</div>
 
 ## 💻 Tech Stack :
-<p align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,15 +30,15 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+</div>
 
 ## 📬 Contact :
-<p align="center">
+<div align="center">
     <a href="https://mail.google.com/mail/u/0/?to=faaidsakhaa@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://wa.me/628972100220/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
     <a href="https://line.me/ti/p/A0QtjUR2V_z"><img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/></a>
     <a href="https://discordapp.com/users/489719895425155082"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+</div>
 
 ## 📊 GitHub Stats :
 <div align="center">
