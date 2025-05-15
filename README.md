@@ -1,15 +1,15 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+there!+Welcome+to+my+profile!" />
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/></div>
+<div align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=kuchikamizake05&label=Profile%20views&color=0e75b6&style=flat" alt="kuchikamizake05"/>
+</div>
 
 <h2 align="center">Hello, my name is Sako 👋</h2>
 <h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
 
 ##
-<p align="center">- 💻 Interested in Web Development & Data Science – I love building and analyzing things with technology!<br>
-- 📈 Passionate About Growth & Learning – Always eager to improve and explore new knowledge.
-</p>
+<p align="center">- 💻 Interested in <b>Web Development</b> & <b>Data Science</b> – I rreally like building and analyzing things with technology!</p>
 
 ## 🌐 Socials :
 <p align="center">
