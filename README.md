@@ -40,11 +40,11 @@
     <a href="https://discordapp.com/users/489719895425155082"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
-## 📊 GitHub Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuchikamizake05&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="170 px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuchikamizake05&theme=radical&hide_border=false" height="170 px"/>
-</div>
+//## 📊 GitHub Stats :
+//<div align="center">
+//  <img src="https://github-readme-stats.vercel.app/api?username=kuchikamizake05&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="170 px"/>
+//  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuchikamizake05&theme=radical&hide_border=false" height="170 px"/>
+//</div>
 
 ##
 <div align="center">
