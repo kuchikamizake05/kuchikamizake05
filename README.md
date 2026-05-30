@@ -14,8 +14,8 @@
 
 ##
 <div align="center">
-  <h4><b>Web Development</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,vite&theme=dark" alt="Web Development" />
+  <h4><b>Software Engineering</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,vite,androidstudio&theme=dark" alt="Web Development" />
 <br>
   <h4><b>Data & AI/ML</b></p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres&theme=dark" alt="Data and AI ML" />
