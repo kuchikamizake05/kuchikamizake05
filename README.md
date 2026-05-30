@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,75:16A34A&descAlign=52&reversal=false&descAlignY=51)
+![header](https://capsule-render.vercel.app/api?type=slice&height=55&color=0:020617,55:14532D,100:16A34A&reversal=false)
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=21&pause=1200&color=16A34A&center=true&vCenter=true&random=false&width=500&height=45&lines=Building%2C+learning%2C+and+exploring+tech" alt="Typing SVG" />
 </div>
@@ -35,5 +35,5 @@
   </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,75:16A34A&descAlign=53&reversal=false&descAlignY=51&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&height=55&color=0:020617,60:14532D,100:16A34A&reversal=true&section=footer)
 
