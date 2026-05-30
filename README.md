@@ -1,12 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,75:16A34A&descAlign=52&reversal=false&descAlignY=51)
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+there!+Welcome+to+my+profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=21&pause=1200&color=16A34A&center=true&vCenter=true&random=false&width=500&height=45&lines=Building%2C+learning%2C+and+exploring+tech" alt="Typing SVG" />
 </div>
 
-<h2 align="center">Hello, my name is Sako 👋</h2>
-<h3 align="center">I'm an undergraduate Information Engineering student at Gadjah Mada University</h3>
+<h2 align="center">Hello, I'm Sako 👋</h2>
+<h3 align="center">Undergraduate Information Engineering student at Gadjah Mada University</h3>
 
-<p align="center">Interested in <b>Web Development, Cyber Security, AI/ML, and Data Science</b> – I really like building and analyzing things with technology!</p>
+<p align="center">
+    Interested in <b>Web Development, Cyber Security, AI/ML, and Data Science</b>.
+    <br>
+    I enjoy building, exploring, and analyzing things with technology.
+</p>
 <br>
 <div align="center">
     <!-- <h3> 📬 Contact :</h3> -->
