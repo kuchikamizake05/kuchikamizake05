@@ -3,14 +3,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=21&pause=1200&color=16A34A&center=true&vCenter=true&random=false&width=500&height=45&lines=BUILDING%2C+LEARNING%2C+EXPLORING" alt="Typing SVG" />
 </div>
 
+<div>
 <h2 align="center">Hello, I'm Sako 👋</h2>
-<h3 align="center">Undergraduate Information Engineering student at Gadjah Mada University</h3>
-
 <p align="center">
     Interested in <b>Web Development, Cyber Security, AI/ML, and Data Science</b>.
     <br>
     I enjoy building, exploring, and analyzing things with technology.
 </p>
+</div>
 
 ##
 <div align="center">
@@ -25,6 +25,7 @@
 </div>
 
 ##
+<br>
 <div align="center">
     <a href="https://mail.google.com/mail/u/0/?to=faaidsakhaa@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://wa.me/628972100220/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
