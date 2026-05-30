@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres&theme=dark" alt="Data and AI ML" />
 
   <h4><b>Tools & Systems</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Tools and Systems" />
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,vscode,postman&theme=dark" alt="Tools and Systems" />
 </div>
 
 ##
