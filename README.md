@@ -15,10 +15,11 @@
 ##
 <div align="center">
   <h4><b>Software Engineering</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,vite,androidstudio&theme=dark" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Web Development" />
+        <img src="https://skillicons.dev/icons?i=tailwind,nodejs,supabase,vite,fultter,androidstudio&theme=dark" alt="Web Development" />
 <br>
   <h4><b>Data & AI/ML</b></p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres&theme=dark" alt="Data and AI ML" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,prisma&theme=dark" alt="Data and AI ML" />
 
   <h4><b>Tools & Systems</b></p>
   <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,vscode,postman&theme=dark" alt="Tools and Systems" />
