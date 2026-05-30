@@ -13,6 +13,19 @@
 </p>
 <br>
 <div align="center">
+
+  <p><b>Web Development</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,vite&theme=dark" alt="Web Development" />
+
+  <p><b>Data & AI/ML</b></p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres&theme=dark" alt="Data and AI ML" />
+
+  <p><b>Tools & Systems</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" alt="Tools and Systems" />
+</div>
+<br>
+<br>
+<div align="center">
     <!-- <h3> 📬 Contact :</h3> -->
     <a href="https://mail.google.com/mail/u/0/?to=faaidsakhaa@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://wa.me/628972100220/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
