@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,100:16A34A&descAlign=52&reversal=false&descAlignY=51)
+![header](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,75:16A34A&descAlign=52&reversal=false&descAlignY=51)
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+there!+Welcome+to+my+profile!" />
 </div>
@@ -31,5 +31,5 @@
   </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,100:16A34A&descAlign=53&reversal=false&descAlignY=51&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,75:16A34A&descAlign=53&reversal=false&descAlignY=51&section=footer)
 
