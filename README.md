@@ -32,7 +32,7 @@
     <a href="https://discordapp.com/users/489719895425155082"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
-
+##
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31425t3vgnzk7tqwf6azbuza3bia&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31425t3vgnzk7tqwf6azbuza3bia&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
