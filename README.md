@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,100:16A34A&descAlign=52&reversal=false&descAlignY=51)
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hey+there!+Welcome+to+my+profile!" />
 </div>
@@ -29,4 +30,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31425t3vgnzk7tqwf6azbuza3bia&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&height=75&color=0:020617,100:16A34A&descAlign=53&reversal=false&descAlignY=51&section=footer)
 
