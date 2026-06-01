@@ -6,7 +6,7 @@
 <div>
 <h2 align="center">Hello, I'm Sako 👋</h2>
 <p align="center">
-    Interested in <b>Software Engineering, AI/ML, Data Science, and Cyber Security, </b>.
+    Interested in <b>Software Engineering, AI/ML, Data Science, and Cyber Security</b>.
     <br>
     I enjoy building, exploring, and analyzing things with technology.
 </p>
