@@ -6,35 +6,65 @@
 <div>
 <h2 align="center">Hello, I'm Sako 👋</h2>
 <p align="center">
-    Interested in <b>Software Engineering, AI/ML, Data Science, and Cyber Security</b>.
+    Interested in <b>Software Engineering, AI/ML, and Data Science</b>.
     <br>
     I enjoy building, exploring, and analyzing things with technology.
 </p>
 </div>
 
 ##
-<div align="center">
-  <h4><b>Software Engineering</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Web Development" /><br>
-      <img src="https://skillicons.dev/icons?i=tailwind,nodejs,supabase,vite,flutter,androidstudio&theme=dark" alt="Web Development" />
-<br>
-  <h4><b>Data & AI/ML</b></p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,postgres,prisma&theme=dark" alt="Data and AI ML" />
 
-  <h4><b>Tools & Systems</b></p>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,vscode,postman&theme=dark" alt="Tools and Systems" />
+<div align="center">
+
+  <h4>Backend & APIs</h4>
+  <img src="https://skillicons.dev/icons?i=java,spring,go,fastapi,nodejs,dotnet&theme=dark" alt="Backend Stack" />
+
+  <br>
+
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite&theme=dark" alt="Frontend Stack" />
+
+  <br>
+
+  <h4>Database & Infrastructure</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,rabbitmq,prisma&theme=dark" alt="Data and Infrastructure" />
+
+<br>
+<h4><b>Data & AI/ML</b></h4>
+
+<img
+  src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,opencv&theme=dark"
+  alt="Data and AI ML"
+/>
+
+
+  <h4>Tools & Systems</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux&theme=dark" alt="Tools and Systems" />
+
 </div>
 
 ##
-<br>
+
 <div align="center">
-    <a href="https://mail.google.com/mail/u/0/?to=faaidsakhaa@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://wa.me/628972100220/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://t.me/kuchizukeeee"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/489719895425155082"><img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <h3>📫 Connect With Me</h3>
+
+  <a href="mailto:faaidsakhaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/faaid-sakhaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/628972100220">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/kuchizukeeee">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
 </div>
 
 ##
+
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31425t3vgnzk7tqwf6azbuza3bia&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31425t3vgnzk7tqwf6azbuza3bia&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
@@ -42,4 +72,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=55&color=0:020617,60:14532D,100:16A34A&reversal=true&section=footer)
-
