@@ -46,7 +46,7 @@
 ##
 
 <div align="center">
-  <h3>📫 Connect With Me</h3>
+  <h3>Connect With Me</h3>
 
   <a href="mailto:faaidsakhaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
